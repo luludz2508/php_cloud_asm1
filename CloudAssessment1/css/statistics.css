@@ -1,0 +1,235 @@
+.statistics {
+    opacity: 90%;
+
+    position: relative;
+    top: 100px;
+    border-radius: 10px;
+    padding: 40px;
+    margin: 100px;
+    margin-top: 0;
+    background-color: white;
+}
+
+.statisticTable{
+    background-color: white;
+    opacity: 100%;
+}
+
+
+.statisticForm{
+    opacity: unset;
+    padding: 40px;
+    margin: 50px;
+    background-color: white;
+    border-radius: 30px;
+    margin-top: 0;
+    padding-top: 0;
+    height: 350px   ;
+}
+.statisticForm .title{
+
+    position: relative;
+    top:0;
+    text-align: center;
+}
+
+.statisticForm h2 {
+    display: inline-block;
+}
+.statisticForm p{
+    position: relative;
+    text-align: center;
+    display: inline-block;
+}
+.statisticForm input{
+    position: relative;
+    text-align: center;
+    display: inline-block;
+}
+.statisticForm .function{
+    position: relative;
+    left: 30%;
+    padding-top: 10px;
+    font-size: 20px;
+    color: #21425d;
+    margin: 0;
+    display: flex;
+    opacity: 1;
+    -webkit-transition: .333s ease top, .333s ease opacity;
+    transition: .333s ease top, .333s ease opacity;
+}
+.statisticForm .SearchBar{
+    position: relative;
+    text-align: center;
+}
+.statisticForm .SearchBar label{
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+}
+.statisticForm .SearchBar .searchArea{
+    position: relative;
+    text-align: left;
+    height: 28px;
+    width: 200px;
+}
+.statisticForm .comboQuantity{
+    padding-right: 20px;
+    position: relative;
+}
+.statisticForm .comboQuantity select{
+    width: 60px;
+}
+.statisticForm .comboCountry{
+    left: 100px;
+    position: relative;
+}
+.statisticForm select{
+    height: 30px;
+    font-size: 17px;
+}
+.comboCountry select{
+    width: 200px;
+
+}
+.center {
+    text-align: center;
+}
+
+.pagination {
+    top: 30px;
+    position: relative;
+    display: inline-block;
+}
+
+.pagination a {
+    border-radius: 5px;
+    color: black;
+    float: left;
+    padding: 8px 16px;
+    text-decoration: none;
+    font-size: 20px;
+    transition: background-color .3s;
+    border: 1px solid #ddd;
+    margin: 0 4px;
+}
+.pagination a:hover {
+    transform: scale(1.2);
+
+}
+.pagination a.active {
+    background-color: #000;
+    color: white;
+    border: 1px solid #000;
+}
+.table-scroll {
+    display: block;
+    /*max-width:600px;*/
+    margin:auto;
+    word-break: keep-all;
+    max-height: 600px;
+    height: 600px;
+}
+
+.table-scroll th  {
+    position: -webkit-sticky;
+    position: sticky;
+    top:0;
+    z-index: 1 ;
+}
+
+.table-scroll  td:first-child{
+    align-content: center;
+    position: -webkit-sticky;
+    position: sticky;
+    left: 0;
+    padding: 10px;
+    z-index: 0 ;
+}
+/*.table-scroll  td:nth-child(>25){*/
+/*    display: none;*/
+/*}*/
+.table-wrap {
+    border: 1px solid #fff;
+    width:100%;
+    height: 100%;
+    overflow: scroll;
+}
+.table-scroll table {
+    width:100%;
+    margin:auto;
+    border-collapse:separate;
+    border-spacing:0;
+}
+.table-scroll th h1 {
+    text-align: center;
+    font-weight: bold;
+    font-size: 15px;
+    text-align: left;
+    color: #F7F8F3;
+    border-collapse:collapse;
+    height: 50px;
+    max-width: 500px;
+    padding:5px 10px;
+    border:1px solid #1F2739;
+}
+.table-scroll td {
+    border-collapse:collapse;
+    max-width: 500px;
+    padding:5px 10px;
+    border:1px solid #1F2739;
+    font-weight: normal;
+    background-color: white;
+    font-size: 12px;
+    color: #464A52;
+    word-wrap: break-word;
+}
+.table-scroll thead, .table-scroll tfoot {
+    background:#F7F8F3;
+}
+
+/*Addnew*/
+
+
+.container {
+    text-align: left;
+    margin: 0 auto;
+    display: table;
+    background-color: white;
+    opacity: 100%;
+    padding: 0 0 0 0;
+}
+
+.deleteButton{
+    font-size: 20px;
+    background-color: #b2333b;
+    border: 1px solid black;
+    border-radius: 3px;
+    width: 72px;
+    height: 40px;
+    margin: 10px;
+
+}
+.deleteButton:hover{
+    background-color: #FB667A;
+}
+.editButton{
+    margin: 10px;
+    height: 40px;
+
+    font-size: 20px;
+    background-color: #1a9c00;
+    border: 1px solid black;
+    border-radius: 3px;
+    width: 72px;
+}
+.editButton:hover{
+    background-color: #1ac300;
+}
+
+
+.container th {
+    border-right: 1px solid white;
+    background-color: #1F2739;
+}
+

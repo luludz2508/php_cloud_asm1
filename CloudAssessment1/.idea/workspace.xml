@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c3b1aadd-b220-4d9e-bd9b-168a7f097c70" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/google-api-php-client/composer.json</pharConfigPath>
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/google-api-php-client/vendor/google/auth" />
+      <path value="$PROJECT_DIR$/google-api-php-client/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/google-api-php-client/vendor/squizlabs/php_codesniffer" />
+      <path value="$PROJECT_DIR$/google-api-php-client/vendor/league/flysystem" />
+      <path value="$PROJECT_DIR$/google-api-php-client/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/google-api-php-client/vendor/google/apiclient-services" />
+      <path value="$PROJECT_DIR$/google-api-php-client/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/google-api-php-client/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/google-api-php-client/vendor/cache/filesystem-adapter" />
+      <path value="$PROJECT_DIR$/google-api-php-client/vendor/phpunit/php-token-stream" />
+      <path value="$PROJECT_DIR$/google-api-php-client/vendor/symfony/dom-crawler" />
+      <path value="$PROJECT_DIR$/google-api-php-client/vendor/guzzlehttp/guzzle" />
+      <path value="$PROJECT_DIR$/google-api-php-client/vendor/phpseclib/phpseclib" />
+      <path value="$PROJECT_DIR$/google-api-php-client/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/google-api-php-client/vendor/symfony/yaml" />
+      <path value="$PROJECT_DIR$/google-api-php-client/vendor/composer" />
+      <path value="$PROJECT_DIR$/google-api-php-client/vendor/phpunit/phpunit-mock-objects" />
+      <path value="$PROJECT_DIR$/google-api-php-client/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/google-api-php-client/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/google-api-php-client/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/google-api-php-client/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/google-api-php-client/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/google-api-php-client/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/google-api-php-client/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/google-api-php-client/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/google-api-php-client/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/google-api-php-client/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/google-api-php-client/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/google-api-php-client/vendor/cache/adapter-common" />
+      <path value="$PROJECT_DIR$/google-api-php-client/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/google-api-php-client/vendor/phpspec/prophecy" />
+      <path value="$PROJECT_DIR$/google-api-php-client/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/google-api-php-client/vendor/symfony/css-selector" />
+      <path value="$PROJECT_DIR$/google-api-php-client/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/google-api-php-client/vendor/guzzlehttp/promises" />
+      <path value="$PROJECT_DIR$/google-api-php-client/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/google-api-php-client/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/google-api-php-client/vendor/firebase/php-jwt" />
+      <path value="$PROJECT_DIR$/google-api-php-client/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/google-api-php-client/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/google-api-php-client/vendor/psr/cache" />
+      <path value="$PROJECT_DIR$/google-api-php-client/vendor/cache/taggable-cache" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1wLJXJZTIKgV0N9WvPDDejztc6O" />
+  <component name="ProjectViewState">
+    <option name="flattenPackages" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="11" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Admin\Desktop\CloudAssessment1\Components" />
+      <recent name="C:\Users\Admin\Desktop\CloudAssessment1" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Admin\Desktop\CloudAssessment1" />
+      <recent name="C:\Users\Admin\Desktop\CloudAssessment1\JavaScript" />
+      <recent name="C:\Users\Admin\Desktop\CloudAssessment1\css" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c3b1aadd-b220-4d9e-bd9b-168a7f097c70" name="Default Changelist" comment="" />
+      <created>1628231973310</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1628231973310</updated>
+      <workItem from="1628231974684" duration="28688000" />
+      <workItem from="1628320217812" duration="13363000" />
+      <workItem from="1628392490218" duration="26000" />
+      <workItem from="1628392528296" duration="24131000" />
+      <workItem from="1628432752300" duration="511000" />
+      <workItem from="1628433293634" duration="6377000" />
+      <workItem from="1628474180386" duration="58957000" />
+      <workItem from="1628581923873" duration="11650000" />
+      <workItem from="1628650752097" duration="13094000" />
+      <workItem from="1628672767097" duration="6691000" />
+      <workItem from="1628687673053" duration="15767000" />
+      <workItem from="1628735119574" duration="16937000" />
+      <workItem from="1628760455126" duration="14508000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="70" key="#SQL_Dialects" timestamp="1628566338609">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="70" key="#SQL_Dialects/0.0.1536.824@0.0.1536.824" timestamp="1628566338609" />
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1628671067803">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1628671067803" />
+    <state x="400" y="101" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1628232538706">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="400" y="101" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1536.824@0.0.1536.824" timestamp="1628232538706" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1628527622775">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1628527622775" />
+    <state x="531" y="226" key="NewPhpClassDialog" timestamp="1628564070834">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="531" y="226" key="NewPhpClassDialog/0.0.1536.824@0.0.1536.824" timestamp="1628564070834" />
+    <state x="604" y="335" key="NewPhpFileDialog" timestamp="1628755288235">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="604" y="335" key="NewPhpFileDialog/0.0.1536.824@0.0.1536.824" timestamp="1628755288235" />
+    <state x="441" y="14" key="SettingsEditor" timestamp="1628433107836">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="441" y="14" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1628433107836" />
+    <state x="490" y="154" width="540" height="524" key="StructurePopup" timestamp="1628249772199">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="490" y="154" width="540" height="524" key="StructurePopup/0.0.1536.824@0.0.1536.824" timestamp="1628249772199" />
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1628760548075">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1628760548075" />
+    <state x="209" y="0" key="new project wizard" timestamp="1628755004311">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="209" y="0" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1628755004311" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1628322222087">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1628322222087" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1628737556919">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1628737556919" />
+  </component>
+</project>

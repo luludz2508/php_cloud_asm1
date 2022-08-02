@@ -1,0 +1,14 @@
+runtime: php55
+api_version: 1
+
+handlers:
+  - url: /css
+    static_dir: css
+  - url: /
+    script: Home.php
+  - url: /home
+    script: Home.php
+  - url: /advance
+    script: advancedPage.php
+  - url: /statistics
+    script: statisticPage.php
